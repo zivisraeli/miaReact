@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/miareact/static/css/main.d1b05096.chunk.css",
+    "main.js": "/miareact/static/js/main.11145734.chunk.js",
+    "main.js.map": "/miareact/static/js/main.11145734.chunk.js.map",
+    "runtime-main.js": "/miareact/static/js/runtime-main.f4da9771.js",
+    "runtime-main.js.map": "/miareact/static/js/runtime-main.f4da9771.js.map",
+    "static/js/2.779d23dd.chunk.js": "/miareact/static/js/2.779d23dd.chunk.js",
+    "static/js/2.779d23dd.chunk.js.map": "/miareact/static/js/2.779d23dd.chunk.js.map",
+    "index.html": "/miareact/index.html",
+    "precache-manifest.f10ceddad96ad06ba3d6b9be26eefd34.js": "/miareact/precache-manifest.f10ceddad96ad06ba3d6b9be26eefd34.js",
+    "service-worker.js": "/miareact/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/miareact/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.779d23dd.chunk.js.LICENSE": "/miareact/static/js/2.779d23dd.chunk.js.LICENSE",
+    "static/media/logo.svg": "/miareact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4da9771.js",
+    "static/js/2.779d23dd.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.11145734.chunk.js"
+  ]
+}
